@@ -134,8 +134,8 @@ Sum 1..10 = 55
 - **Job `test`** — зелёный при каждом push в `main`
 - **Job `release`** — запускается по тегу `v*`, создаёт Release с 5 бинарниками
 
-**Actions:** https://github.com/xem1zo/hello-go-releases/actions  
-**Releases:** https://github.com/xem1zo/hello-go-releases/releases
+**Actions:** https://github.com/darryyaya/hello-go-releases/actions 
+**Releases:** https://github.com/darryyaya/hello-go-releases/releases
 
 ## 📝 Вывод
 
